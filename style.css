@@ -1,0 +1,199 @@
+.section{
+      margin-left: 3%;
+      margin-right: 3%;
+      float: left;
+      display:flex;
+      /* justify-content: center;
+
+      align-items: center; */
+}
+.section1{
+   margin-top: 5%;
+}
+.firstimg{
+   margin-top: 2%;
+   width: 50%;
+   display:inline-block;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   
+}
+.sacandimg{
+    width: 50%;
+    display: inline-block;
+}
+.img1{
+    width: 55%;
+   
+
+}
+.img3{
+    width: 100%;
+}
+
+
+.img2{
+    width: 90%;
+    
+
+}
+.picss{
+    list-style: none;
+    margin:10%;
+    display: flex;
+
+
+ }
+ .section2{
+    width: 50%;
+  
+   
+ }
+ .section2 img{
+   
+    width: 100%;
+    height: 150%;
+ }
+
+ .section2 h1{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+ }
+ .section2 p{
+    text-align: center;
+    font-size: 150%;
+    color: rgba(0, 0, 0, 0.548);
+ }
+    
+ .text{
+  
+    margin-top:30%; 
+ }
+ 
+ .section3{
+    width: 50%;
+
+    
+ }
+ .section3 img{
+    width: 175%;
+    height: 100%;
+    
+ }
+ .section3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    
+ }
+ .section3 p{
+    text-align: center;
+    font-size: 200%;
+    color: rgba(0, 0, 0, 0.548);
+    letter-spacing: 2px;
+
+ }
+ .texes{
+    margin-top: 25%;
+
+ }
+  
+ 
+
+
+
+
+ .section4 {
+    width: 50%;
+
+    
+ }
+ .AB img{
+    width: 95%;
+    height: 100%;
+ }
+ .BA img{
+    width: 90%;
+ }
+ .section4 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    
+ }
+ .section4 p{
+    text-align: center;
+    font-size: 200%;
+    color: rgba(0, 0, 0, 0.548);
+    letter-spacing: 2px;
+
+ }
+ .texess{
+    margin-top: 25%;
+   
+ }
+ 
+ .section5{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+  
+ }
+ 
+ 
+   
+ 
+ .footerimg{
+      
+     
+      display: flex;
+      text-align: center;
+      margin-left: 10%;
+
+
+
+      
+ }
+ .footerimg ul{
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   
+
+ }
+
+ .footerimg li{
+   
+   width: 25%;
+   
+ }
+ .footerimg ul  img{
+   width: 90%;
+ }
+.section5 p
+{
+   margin-left: 15%;
+   font-size: 150%;
+}
+
+.footerlogo{
+   /* width: 100; */ 
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   text-align: center;
+   margin-left: 15%;
+  
+}
+.footerlogo img{
+   width: 15%;
+}
+
+ 
+
