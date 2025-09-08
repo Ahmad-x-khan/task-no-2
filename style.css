@@ -8,10 +8,10 @@
       align-items: center; */
 }
 .section1{
-   margin-top: 5%;
+   margin-top: 3%;
 }
 .firstimg{
-   margin-top: 2%;
+   margin-top:3%;
    width: 50%;
    display:inline-block;
    justify-content: center;
@@ -20,27 +20,63 @@
    
 }
 .sacandimg{
+   margin-right: 2%;
     width: 50%;
     display: inline-block;
 }
 .img1{
-    width: 55%;
+    width: 60%;
    
 
 }
 .img3{
     width: 100%;
 }
+.img6{
+   margin-right: 6%;
 
+}
 
 .img2{
-    width: 90%;
+   margin: 0%;
+   margin-top: 5%;
+  
+    width:102%;
+    height: 14.3vh;
     
 
 }
+
+.fasttext h2{
+   letter-spacing: 4px; 
+   font-family: Arial, Helvetica, sans-serif;
+   margin:0%;
+   font-size: 165%;
+   margin-left: 4%;
+
+}
+.fasttext p{
+   font-family: Arial, Helvetica, sans-serif; 
+   font-size: 150% ;
+   margin-top: 1%;
+   color: rgba(2, 2, 2, 0.562);
+   letter-spacing: 2px;
+}
+
+.storeimg{
+   gap: 2%;
+   margin-left: 5%;
+   margin-top: 8.3%;
+}
+
 .picss{
+   margin-top: 3%;
+   width: 81%;
+   justify-content:space-between;
+   margin:0%;
+  
     list-style: none;
-    margin:10%;
+    
     display: flex;
 
 
@@ -52,7 +88,7 @@
  }
  .section2 img{
    
-    width: 100%;
+    width:95%;
     height: 150%;
  }
 
@@ -69,8 +105,8 @@
  }
     
  .text{
-  
-    margin-top:30%; 
+    position: absolute;
+    margin-top:13%; 
  }
  
  .section3{
@@ -100,43 +136,104 @@
     margin-top: 25%;
 
  }
-  
- 
-
-
-
+ .C{
+   top:50% ;
+   left:70%;
+   transform: translate(0% , -16%);
+   /* width:25%; */
+   margin-left: 3%;
+ }
+ .B{
+   top:50% ;
+   left: 70%;
+   transform: translate(0% , -21%);
+   width:25%;
+ }
 
  .section4 {
-    width: 50%;
+    width: 150%;
+    
 
     
  }
+ .sectionn{
+ 
+   position: relative;
+   margin-top: 6%;
+ }
  .AB img{
-    width: 95%;
-    height: 100%;
+  
+    width:87%;
+    height:120.5vh;
+    top: 50%;
  }
+ .AB{
+   top:40% ;
+   left:2%;
+   transform: translate(0% , -37%);
+   position: absolute;
+  
+  
+   
+   
+   
+   /* width:25%; */
+ }
+
+
+
  .BA img{
-    width: 90%;
+    top:50% ;
+   left: 70%;
+   transform: translate(-48% , -290%);
+   margin-left: 10%;
+  
+    position: absolute;
+    
+    width: 260%;
+    
+    
+   
  }
+.BA{
+   top:50% ;
+   left:50%;
+   transform: translate(-28% , 25%);
+   margin-left: 140%;
+   
+  
+ 
+   
+}
+.ahmad{
+   width: 250%;
+}
  .section4 h1{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    letter-spacing: 3px;
+    margin-top: 2%;
+    letter-spacing: 7px;
+    margin-right: 5%;
+  
+    font-size: 240%;
     
  }
  .section4 p{
     text-align: center;
-    font-size: 200%;
+    font-size: 210%;
     color: rgba(0, 0, 0, 0.548);
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 
  }
- .texess{
-    margin-top: 25%;
-   
- }
+
  
  .section5{
+  top: 50%;
+  left: 40%;
+  transform: translate(-4%,100%);
+  
+   top: 50%;
+   width: 100%;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -152,7 +249,9 @@
      
       display: flex;
       text-align: center;
-      margin-left: 10%;
+      margin-left: -4%;
+     
+  
 
 
 
@@ -170,16 +269,18 @@
 
  .footerimg li{
    
-   width: 25%;
+   width:100%;
+
    
  }
  .footerimg ul  img{
-   width: 90%;
+   width: 125%;
  }
 .section5 p
 {
-   margin-left: 15%;
-   font-size: 150%;
+   margin-top: 5%;
+   margin-left: 4%;
+   font-size: 160%;
 }
 
 .footerlogo{
@@ -188,12 +289,31 @@
    flex-wrap: wrap;
    justify-content: center;
    text-align: center;
-   margin-left: 15%;
+   margin-left: 6%;
+   margin-top: 5%;
+   margin-bottom: 4%;
   
 }
 .footerlogo img{
-   width: 15%;
+   width: 30%;
 }
+.footerimg3{
+   margin-right: 14%;
+}
+.last p{
+   width: 100% ;
+   border:  2px solid black;
+   display: flex;
+ 
+  
+}
+.last{
+   
+    margin: 0%;
+   width: 100%;
+   
+}
+
 
  
 
