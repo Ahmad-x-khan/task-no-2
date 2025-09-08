@@ -8,7 +8,7 @@
       align-items: center; */
 }
 .section1{
-   margin-top: 3%;
+   margin-top: 8%;
 }
 .firstimg{
    margin-top:3%;
@@ -47,6 +47,7 @@
 
 }
 
+
 .fasttext h2{
    letter-spacing: 4px; 
    font-family: Arial, Helvetica, sans-serif;
@@ -74,10 +75,8 @@
    width: 81%;
    justify-content:space-between;
    margin:0%;
-  
-    list-style: none;
-    
-    display: flex;
+   list-style: none;
+   display: flex;
 
 
  }
@@ -85,6 +84,9 @@
     width: 50%;
   
    
+ }
+ .A{
+   margin-top: -1.5%;
  }
  .section2 img{
    
